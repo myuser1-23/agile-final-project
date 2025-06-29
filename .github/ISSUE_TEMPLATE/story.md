@@ -1,6 +1,6 @@
 ---
-name: User Story
-about: Describe this issue template's purpose here.
+name: Story
+about: 'Create a user story using Agile best practices '
 title: ''
 labels: ''
 assignees: ''
@@ -10,6 +10,10 @@ assignees: ''
 *As a* [user role],
 *I need* [feature] 
 *so that* [goal].
+
+##Details & Assumptions
+*
+*
 
 ### Acceptance Criteria
 - Given...
